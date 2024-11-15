@@ -1,5 +1,7 @@
 # Naruto Shippūden: Ultimate Ninja Heroes 3 GUIDE Modding
 
+![Naruto Shippūden: Ultimate Ninja Heroes 3](logo.png)
+
 Este repositório contém informações detalhadas sobre a estrutura dos arquivos e pastas presentes na ISO do jogo **Naruto Shippūden: Ultimate Ninja Heroes 3**. O objetivo é servir como um guia para modding, facilitando a modificação e personalização do jogo.
 
 ---
